@@ -75,7 +75,7 @@ I love building **practical tools** and **scalable solutions** that actually wor
 ## 📫 Contact
 
 - 💼 [GitHub](https://github.com/mjavadghanbari)
-- 📧 Email: (put your email here)
+- 📧 Email: 
 
 ---
 
